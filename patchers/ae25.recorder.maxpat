@@ -10,18 +10,28 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 790.0, 100.0, 688.0, 848.0 ],
+		"rect" : [ 1008.0, 66.0, 504.0, 916.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-22",
-					"maxclass" : "button",
+					"id" : "obj-21",
+					"maxclass" : "ezdac~",
+					"numinlets" : 2,
+					"numoutlets" : 0,
+					"patching_rect" : [ 298.0, 348.0, 45.0, 45.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-7",
+					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 445.0, 465.0, 24.0, 24.0 ]
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 415.166678160429001, 651.40000969171524, 70.0, 22.0 ],
+					"text" : "loadmess 0"
 				}
 
 			}
@@ -221,7 +231,7 @@
 
 					}
 ,
-					"text" : "0.1",
+					"text" : "0.0",
 					"textcolor" : [ 1.0, 0.67843137254902, 0.337254901960784, 1.0 ]
 				}
 
@@ -355,19 +365,6 @@
 					"outlettype" : [ "multichannelsignal" ],
 					"patching_rect" : [ 12.0, 26.0, 130.0, 22.0 ],
 					"text" : "mc.receive~ dan-mix 4"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-24",
-					"maxclass" : "toggle",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 343.0, 478.0, 24.0, 24.0 ],
-					"svg" : ""
 				}
 
 			}
@@ -507,6 +504,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-2", 0 ],
+					"source" : [ "obj-7", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-74", 0 ],
 					"source" : [ "obj-73", 0 ]
 				}
@@ -527,7 +531,23 @@
 
 			}
  ],
-		"originid" : "pat-764"
+		"originid" : "pat-1638",
+		"parameters" : 		{
+			"obj-19" : [ "live.toggle", "live.toggle", 0 ],
+			"parameterbanks" : 			{
+				"0" : 				{
+					"index" : 0,
+					"name" : "",
+					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
+				}
+
+			}
+,
+			"inherited_shortname" : 1
+		}
+,
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }

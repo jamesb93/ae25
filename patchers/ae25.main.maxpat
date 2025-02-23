@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 66.0, 1512.0, 916.0 ],
+		"rect" : [ 756.0, 66.0, 756.0, 916.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"toolbarvisible" : 0,
 		"boxes" : [ 			{
@@ -367,7 +367,7 @@
 
 							}
  ],
-						"originid" : "pat-1038"
+						"originid" : "pat-1662"
 					}
 ,
 					"patching_rect" : [ 739.0, 249.0, 59.142843672207448, 22.0 ],
@@ -767,7 +767,7 @@
 
 							}
  ],
-						"originid" : "pat-1048"
+						"originid" : "pat-1672"
 					}
 ,
 					"patching_rect" : [ 622.0, 730.0, 71.0, 22.0 ],
@@ -1108,7 +1108,7 @@
 
 							}
  ],
-						"originid" : "pat-1056"
+						"originid" : "pat-1680"
 					}
 ,
 					"patching_rect" : [ 770.0, 730.0, 71.0, 22.0 ],
@@ -1395,7 +1395,7 @@
 
 							}
  ],
-						"originid" : "pat-1068"
+						"originid" : "pat-1692"
 					}
 ,
 					"patching_rect" : [ 1384.0, 856.0, 102.0, 22.0 ],
@@ -1605,7 +1605,7 @@
 
 							}
  ],
-						"originid" : "pat-1070"
+						"originid" : "pat-1694"
 					}
 ,
 					"patching_rect" : [ 8.0, 470.0, 53.0, 22.0 ],
@@ -2929,7 +2929,7 @@
 
 							}
  ],
-						"originid" : "pat-1078"
+						"originid" : "pat-1702"
 					}
 ,
 					"patching_rect" : [ 1103.0, 312.0, 112.0, 22.0 ],
@@ -3267,7 +3267,7 @@
 
 							}
  ],
-						"originid" : "pat-1098"
+						"originid" : "pat-1722"
 					}
 ,
 					"patching_rect" : [ 1384.0, 779.0, 61.0, 22.0 ],
@@ -3654,7 +3654,7 @@
 
 							}
  ],
-						"originid" : "pat-1180"
+						"originid" : "pat-1804"
 					}
 ,
 					"patching_rect" : [ 1103.0, 510.0, 59.142843672207448, 22.0 ],
@@ -3888,7 +3888,7 @@
 
 							}
  ],
-						"originid" : "pat-1186"
+						"originid" : "pat-1810"
 					}
 ,
 					"patching_rect" : [ 589.0, 249.0, 59.142843672207448, 22.0 ],
@@ -4253,7 +4253,7 @@
 
 							}
  ],
-						"originid" : "pat-1312"
+						"originid" : "pat-1936"
 					}
 ,
 					"patching_rect" : [ 8.0, 511.0, 59.142843672207448, 22.0 ],
@@ -4524,7 +4524,7 @@
 
 							}
  ],
-						"originid" : "pat-1316"
+						"originid" : "pat-1940"
 					}
 ,
 					"patching_rect" : [ 1384.0, 817.0, 55.0, 22.0 ],
@@ -5184,7 +5184,7 @@
 
 			}
  ],
-		"originid" : "pat-1018",
+		"originid" : "pat-1642",
 		"parameters" : 		{
 			"obj-130::obj-23" : [ "live.dial[11]", "Volume", 0 ],
 			"obj-137::obj-23" : [ "live.dial[12]", "Volume", 0 ],
