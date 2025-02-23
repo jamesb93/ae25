@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 756.0, 66.0, 756.0, 916.0 ],
+		"rect" : [ 0.0, 66.0, 1512.0, 916.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"toolbarvisible" : 0,
 		"boxes" : [ 			{
@@ -2985,7 +2985,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1384.0, 60.0, 24.0, 24.0 ]
+					"patching_rect" : [ 1428.0, 56.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -2996,7 +2996,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "int" ],
-					"patching_rect" : [ 1299.0, 95.0, 32.0, 22.0 ],
+					"patching_rect" : [ 1343.0, 91.0, 32.0, 22.0 ],
 					"text" : "t b 0"
 				}
 
@@ -3008,7 +3008,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1299.0, 138.0, 105.0, 22.0 ],
+					"patching_rect" : [ 1343.0, 134.0, 105.0, 22.0 ],
 					"text" : "send live.dial -144"
 				}
 
@@ -3019,7 +3019,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1299.0, 170.0, 127.0, 22.0 ],
+					"patching_rect" : [ 1343.0, 166.0, 127.0, 22.0 ],
 					"text" : "universal @descend 1"
 				}
 
@@ -3042,7 +3042,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1250.0, 170.0, 44.0, 22.0 ],
+					"patching_rect" : [ 1294.0, 166.0, 44.0, 22.0 ],
 					"text" : "s killall"
 				}
 
@@ -3390,8 +3390,8 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 1103.0, 166.0, 121.0, 22.0 ],
-					"text" : "record~ dan @loop 1"
+					"patching_rect" : [ 1103.0, 166.0, 187.0, 22.0 ],
+					"text" : "record~ dan @loop 1 @append 1"
 				}
 
 			}
