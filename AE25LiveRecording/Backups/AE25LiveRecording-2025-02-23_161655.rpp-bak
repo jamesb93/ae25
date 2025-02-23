@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.33/macOS-arm64" 1740298717
+<REAPER_PROJECT 0.1 "7.33/macOS-arm64" 1740298615
   <NOTES 0 2
   >
   RIPPLE 0
@@ -98,6 +98,45 @@
   >
   <PROJBAY
   >
+  <TRACK {C56DD2C1-E075-8A45-8555-489E37F08FCB}
+    NAME "Full Mix"
+    PEAKCOL 21737380
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 2048 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 42
+    FX 1
+    TRACKID {C56DD2C1-E075-8A45-8555-489E37F08FCB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 552 376 793 289
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS analysis/WigMCVUMeter ""
+        2 100 60 10 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B6E143ED-B420-124C-9366-97783EB33D8B}
+      WAK 0 0
+    >
+  >
   <TRACK {580422B8-3106-E74B-8B13-AF2270FFD980}
     NAME "Stereo Routing"
     PEAKCOL 33200800
@@ -170,7 +209,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 1 1028 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
