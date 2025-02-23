@@ -1,0 +1,5 @@
+*.ddb binary
+*.db binary
+*.lockb binary
+*/**/ae25.data.*.json binary
+*.wav binary

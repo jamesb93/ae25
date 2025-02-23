@@ -1,0 +1,22 @@
+{
+	"author" : "AE25",
+	"description" : "Audible Edge 2025 Package",
+	"max_version_min" : "7.0",
+	"name" : "James Bradbury",
+	"os" : {
+		"macintosh" : {
+			"platform" : [ "aarch64", "x64" ],
+			"min_version" : "10.9.x"
+		},
+		"windows" : {
+			"platform" : [ "x64" ],
+			"min_version" : "10"
+		}
+	},
+	"package_extra" : {
+		"reverse_domain" : "net.jamesbradbury",
+		"copyright" : ""
+	},
+	"version" : "0.0.1",
+	"website" : "https://jamesbradbury.net"
+}
