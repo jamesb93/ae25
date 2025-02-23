@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 756.0, 66.0, 756.0, 916.0 ],
+		"rect" : [ 0.0, 66.0, 1512.0, 916.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"toolbarvisible" : 0,
 		"boxes" : [ 			{
@@ -377,7 +377,7 @@
 
 							}
  ],
-						"originid" : "pat-1662"
+						"originid" : "pat-24"
 					}
 ,
 					"patching_rect" : [ 739.0, 249.0, 59.142843672207448, 22.0 ],
@@ -777,7 +777,7 @@
 
 							}
  ],
-						"originid" : "pat-1672"
+						"originid" : "pat-34"
 					}
 ,
 					"patching_rect" : [ 622.0, 730.0, 71.0, 22.0 ],
@@ -1118,7 +1118,7 @@
 
 							}
  ],
-						"originid" : "pat-1680"
+						"originid" : "pat-42"
 					}
 ,
 					"patching_rect" : [ 770.0, 730.0, 71.0, 22.0 ],
@@ -1405,7 +1405,7 @@
 
 							}
  ],
-						"originid" : "pat-1692"
+						"originid" : "pat-54"
 					}
 ,
 					"patching_rect" : [ 1384.0, 856.0, 102.0, 22.0 ],
@@ -1615,7 +1615,7 @@
 
 							}
  ],
-						"originid" : "pat-1694"
+						"originid" : "pat-56"
 					}
 ,
 					"patching_rect" : [ 8.0, 470.0, 53.0, 22.0 ],
@@ -1646,8 +1646,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 156.0, 521.0, 40.0, 22.0 ],
-					"text" : "*~ 0.5"
+					"patching_rect" : [ 156.0, 521.0, 54.0, 22.0 ],
+					"text" : "*~ 0.717"
 				}
 
 			}
@@ -2939,7 +2939,7 @@
 
 							}
  ],
-						"originid" : "pat-1702"
+						"originid" : "pat-64"
 					}
 ,
 					"patching_rect" : [ 1103.0, 312.0, 112.0, 22.0 ],
@@ -2982,8 +2982,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 1138.0, 118.0, 51.0, 22.0 ],
-					"text" : "adc~ 11"
+					"patching_rect" : [ 1138.0, 118.0, 52.0, 22.0 ],
+					"text" : "adc~ 75"
 				}
 
 			}
@@ -3277,7 +3277,7 @@
 
 							}
  ],
-						"originid" : "pat-1722"
+						"originid" : "pat-84"
 					}
 ,
 					"patching_rect" : [ 1384.0, 779.0, 61.0, 22.0 ],
@@ -3664,7 +3664,7 @@
 
 							}
  ],
-						"originid" : "pat-1804"
+						"originid" : "pat-166"
 					}
 ,
 					"patching_rect" : [ 1103.0, 510.0, 59.142843672207448, 22.0 ],
@@ -3898,7 +3898,7 @@
 
 							}
  ],
-						"originid" : "pat-1810"
+						"originid" : "pat-172"
 					}
 ,
 					"patching_rect" : [ 589.0, 249.0, 59.142843672207448, 22.0 ],
@@ -4263,7 +4263,7 @@
 
 							}
  ],
-						"originid" : "pat-1936"
+						"originid" : "pat-298"
 					}
 ,
 					"patching_rect" : [ 8.0, 511.0, 59.142843672207448, 22.0 ],
@@ -4306,8 +4306,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 8.0, 434.0, 51.0, 22.0 ],
-					"text" : "adc~ 11"
+					"patching_rect" : [ 8.0, 434.0, 52.0, 22.0 ],
+					"text" : "adc~ 75"
 				}
 
 			}
@@ -4534,7 +4534,7 @@
 
 							}
  ],
-						"originid" : "pat-1940"
+						"originid" : "pat-302"
 					}
 ,
 					"patching_rect" : [ 1384.0, 817.0, 55.0, 22.0 ],
@@ -5194,7 +5194,7 @@
 
 			}
  ],
-		"originid" : "pat-1642",
+		"originid" : "pat-4",
 		"parameters" : 		{
 			"obj-130::obj-23" : [ "live.dial[11]", "Volume", 0 ],
 			"obj-137::obj-23" : [ "live.dial[12]", "Volume", 0 ],
