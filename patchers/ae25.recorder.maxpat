@@ -10,20 +10,10 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1008.0, 66.0, 504.0, 916.0 ],
+		"rect" : [ 790.0, 100.0, 688.0, 848.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
-				"box" : 				{
-					"id" : "obj-21",
-					"maxclass" : "ezdac~",
-					"numinlets" : 2,
-					"numoutlets" : 0,
-					"patching_rect" : [ 298.0, 348.0, 45.0, 45.0 ]
-				}
-
-			}
-, 			{
 				"box" : 				{
 					"id" : "obj-7",
 					"maxclass" : "newobj",
@@ -531,23 +521,7 @@
 
 			}
  ],
-		"originid" : "pat-1638",
-		"parameters" : 		{
-			"obj-19" : [ "live.toggle", "live.toggle", 0 ],
-			"parameterbanks" : 			{
-				"0" : 				{
-					"index" : 0,
-					"name" : "",
-					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
-				}
-
-			}
-,
-			"inherited_shortname" : 1
-		}
-,
-		"dependency_cache" : [  ],
-		"autosave" : 0
+		"originid" : "pat-1698"
 	}
 
 }

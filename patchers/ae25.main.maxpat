@@ -10,10 +10,20 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 66.0, 1512.0, 916.0 ],
+		"rect" : [ 756.0, 66.0, 756.0, 916.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"toolbarvisible" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-53",
+					"maxclass" : "ezdac~",
+					"numinlets" : 2,
+					"numoutlets" : 0,
+					"patching_rect" : [ 411.0, 841.0, 45.0, 45.0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-58",
 					"maxclass" : "newobj",
@@ -69,7 +79,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 475.5, 695.0, 123.0, 22.0 ],
-					"text" : "ae25.encoder 8 -70 6"
+					"text" : "ae25.encoder 8 -35 6"
 				}
 
 			}
